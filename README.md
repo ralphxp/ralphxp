@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ralphxp
-- 👀 I’m interested in IcT
-- 🌱 I’m currently learning To be an Unpredictable Expert in ICT
+- 👀 I’m Smart and open-minded
+- 👀 I'm curious and Loyal
+- 🌱 I’m currently learning To be an Unpredictable Expert in tech
 - 📫 How to reach me @ralphpanchi
 
 <!---
